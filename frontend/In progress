@@ -1,0 +1,6 @@
+Build basic frontend layout (Navbar, Sidebar, Dashboard)
+Set up backend Express server and project folder structure
+Connect backend with MongoDB using Mongoose
+Create initial user login API and authentication logic
+Start building task creation form in frontend
+Create Pomodoro timer UI structure
