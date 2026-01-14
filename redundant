@@ -1,0 +1,1 @@
+Refactored state updates and removed redundant variables to reduce gas consumption.
