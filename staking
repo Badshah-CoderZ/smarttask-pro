@@ -1,0 +1,1 @@
+Added require checks to prevent users from staking zero or negative amounts. This improves contract safety and avoids unnecessary state updates.
